@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_visual final", "OOP_visual final\OOP_visual final.csproj", "{5B3492A7-9112-41F7-8BAE-268E42603120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_visual final", "OOP_visual final\OOP_visual final.csproj", "{5B3492A7-9112-41F7-8BAE-268E42603120}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Položky řešení", "Položky řešení", "{8F4C1BB2-B758-4303-882D-176FC422606D}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\kuban\Documents\bands.csv = C:\Users\kuban\Documents\bands.csv
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
