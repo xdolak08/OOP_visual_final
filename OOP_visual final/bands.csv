@@ -1,0 +1,8 @@
+Id,Name,Žánr,Národnost,Počet členů,Aktivní,Počet slavíků, Počet Grammy,
+System.Int32,System.String,System.String,System.String,System.Int32,System.Boolean,System.Int32,System.Int32,
+0,Kabát,Rock,Česká,5,True,11,,
+1,Imagine Dragons,Alternative Rock,Americká,4,True,,1,
+2,AC/DC,Hard rock,Australská,5,True,,1,
+3,Metallica,Heavy metal,Americká,4,True,,8,
+4,The Beatles,Rock and roll,Britská,4,False,,7,
+5,Linkin Park,Nu metal,Americká,5,False,,2,
